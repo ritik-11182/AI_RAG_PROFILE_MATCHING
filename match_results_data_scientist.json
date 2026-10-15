@@ -1,0 +1,170 @@
+{
+  "job_description": "Data Scientist - Predictive Analytics\n\nWe are hiring a Data Scientist with 3+ years of experience in predictive modeling,\nstatistical analysis, and machine learning.\n\nRequired Skills:\n- Python or R (3+ years)\n- Machine Learning: Scikit-learn, XGBoost, or similar\n- Statistical modeling and A/B testing\n- SQL and data analysis\n- Data visualization: Matplotlib, Seaborn, Tableau, or Power BI\n- Pandas and NumPy\n\nResponsibilities:\n- Build predictive models for customer churn, lifetime value, and recomm...",
+  "jd_skills": [
+    "Python",
+    "R",
+    "SQL",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "Keras",
+    "XGBoost",
+    "Pandas",
+    "NumPy",
+    "Machine Learning",
+    "Deep Learning",
+    "GCP",
+    "Snowflake",
+    "Tableau",
+    "Power BI",
+    "BigQuery"
+  ],
+  "min_experience_required": 3,
+  "top_matches": [
+    {
+      "candidate_name": "Resume Bob Martinez",
+      "resume_path": "resumes\\resume_bob_martinez.txt",
+      "years_experience": 5,
+      "match_score": 71,
+      "matched_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Keras",
+        "XGBoost",
+        "Pandas",
+        "NumPy",
+        "Machine Learning",
+        "Deep Learning",
+        "Snowflake"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior Data Scientist \u2014 FinTech Innovations, New York, NY Mar 2022 \u2013 Present \u2022 Built a credit risk scoring model using XGBoost and Python, reducing default rate by 18%. \u2022 Developed an NLP-based document classification system (",
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, R, SQL, Scala ML/AI : Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM NLP : NLTK, spaCy, Hugging Face Transformers, LangChain Data : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau Cloud/ML",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Creative and analytical Data Scientist with 5 years of experience applying machine learning and statistical modelling to solve real-world business problems. Strong background in Python, deep learning, and NLP. Experienced"
+      ],
+      "reasoning": "Semantic similarity: 0.64 (best chunk) across sections [certifications, experience, skills, summary]. Keyword match: 13/17 required skills. Experience: 5 yrs. Top matched skills: Python, R, SQL, TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost.",
+      "sections_matched": [
+        "certifications",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nM.S. Data Science \u2014 Columbia University, New York, 2019\nB.S. Statistics \u2014 Boston University, 2017 | GPA: 3.7/4.0\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Bob Martinez",
+      "resume_path": "resumes\\bob_martinez.pdf",
+      "years_experience": 5,
+      "match_score": 66,
+      "matched_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "Scikit-learn",
+        "Keras",
+        "XGBoost",
+        "Pandas",
+        "NumPy",
+        "GCP"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY Data Scientist with 5 years of experience in predictive analytics, computer vision, and NLP. Passionate about converting raw data into actionable business insights.",
+        "SKILLS Python | R | Scikit-learn | Keras | OpenCV | Pandas | NumPy | Tableau | SQL | PostgreSQL | GCP | BigQuery | Statistics | Time Series Analysis | XGBoost",
+        "PROFESSIONAL EXPERIENCE Data Scientist - Analytics Pro (2021 - Present) - Built computer vision pipeline for defect detection reducing manufacturing errors by 35%. - Developed time series forecasting models for supply chain optimization saving $2M annually. Junior Data Scientist - InsightGen (2019 -"
+      ],
+      "reasoning": "Semantic similarity: 0.61 (best chunk) across sections [education, experience, skills, summary]. Keyword match: 9/17 required skills. Experience: 5 yrs. Top matched skills: Python, R, SQL, Scikit-learn, Keras, XGBoost, Pandas, NumPy.",
+      "sections_matched": [
+        "education",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Data Science | UT Austin (2019)\nB.S. Statistics | Texas A&M; University (2017)"
+    },
+    {
+      "candidate_name": "Alice Chen",
+      "resume_path": "resumes\\alice_chen.pdf",
+      "years_experience": 7,
+      "match_score": 58,
+      "matched_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "relevant_excerpts": [
+        "SKILLS Python | TensorFlow | PyTorch | Scikit-learn | MLflow | Kubeflow | Docker | Kubernetes | SQL | Spark | AWS SageMaker | BERT | Transformers | Feature Engineering | A/B Testing",
+        "PROFESSIONAL SUMMARY Senior Machine Learning Engineer with 7 years of experience building production ML systems. Expert in deep learning, NLP, and MLOps. Led teams delivering large-scale recommendation and ranking systems.",
+        "PROFESSIONAL EXPERIENCE Senior ML Engineer - TechCorp Inc. (2020 - Present) - Designed and deployed a real-time recommendation engine serving 50M+ users, increasing CTR by 18%. - Built end-to-end MLOps pipeline with MLflow and Kubeflow, reducing model deployment time by 60%. - Led a team of 4 engine"
+      ],
+      "reasoning": "Semantic similarity: 0.52 (best chunk) across sections [education, experience, skills, summary]. Keyword match: 8/17 required skills. Experience: 7 yrs. Top matched skills: Python, R, SQL, TensorFlow, PyTorch, Scikit-learn, Machine Learning, Deep Learning.",
+      "sections_matched": [
+        "education",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Computer Science (Machine Learning) | Stanford University (2017)\nB.S. Mathematics | UC Berkeley (2015)"
+    },
+    {
+      "candidate_name": "Zoe Harrison",
+      "resume_path": "resumes\\zoe_harrison.pdf",
+      "years_experience": 6,
+      "match_score": 53,
+      "matched_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "TensorFlow",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "relevant_excerpts": [
+        "SKILLS Python | TensorFlow | Spark | Collaborative Filtering | Matrix Factorization | Deep Learning | Feature Engineering | Hadoop | Kafka | Flink | AWS | Scala | A/B Testing | Experimentation | SQL",
+        "PROFESSIONAL SUMMARY Machine Learning Engineer specializing in recommendation systems and personalization with 6 years experience. Built systems serving billions of users at top tech companies.",
+        "PROFESSIONAL EXPERIENCE ML Engineer - Recommendations - StreamMax (2020 - Present) - Built deep learning recommendation system increasing user engagement by 25%. - Implemented two-tower neural network for candidate retrieval at billion-scale. - Designed experimentation platform running 200+ simultan"
+      ],
+      "reasoning": "Semantic similarity: 0.58 (best chunk) across sections [experience, skills, summary]. Keyword match: 6/17 required skills. Experience: 6 yrs. Top matched skills: Python, R, SQL, TensorFlow, Machine Learning, Deep Learning.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Statistics | University of Washington (2018)\nB.S. Mathematics | University of Michigan (2016)"
+    },
+    {
+      "candidate_name": "Liam Brown",
+      "resume_path": "resumes\\liam_brown.pdf",
+      "years_experience": 6,
+      "match_score": 53,
+      "matched_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Machine Learning"
+      ],
+      "relevant_excerpts": [
+        "SKILLS Python | R | MATLAB | SQL | Machine Learning | Time Series | Risk Modeling | Monte Carlo Simulation | Bloomberg Terminal | Pandas | NumPy | Statsmodels | QuantLib | Fixed Income | Derivatives",
+        "PROFESSIONAL SUMMARY Quantitative Analyst and Data Scientist with 6 years in financial services. Expert in risk modeling, algorithmic trading strategies, and statistical analysis."
+      ],
+      "reasoning": "Semantic similarity: 0.57 (best chunk) across sections [skills, summary]. Keyword match: 6/17 required skills. Experience: 6 yrs. Top matched skills: Python, R, SQL, Pandas, NumPy, Machine Learning.",
+      "sections_matched": [
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Financial Engineering | MIT Sloan (2018)\nB.S. Mathematics and Statistics | Harvard University (2016)"
+    }
+  ],
+  "retrieval_latency_ms": 46,
+  "total_candidates_evaluated": 34
+}

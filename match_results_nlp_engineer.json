@@ -1,0 +1,164 @@
+{
+  "job_description": "NLP / Conversational AI Engineer\n\nWe're building the next generation of AI-powered products and need an NLP Engineer\nwith 3+ years of experience in natural language processing and LLMs.\n\nRequired Skills:\n- Python (3+ years)\n- HuggingFace Transformers, BERT, GPT, or similar LLMs\n- LangChain or LlamaIndex for RAG systems\n- Vector databases: ChromaDB, Pinecone, or Weaviate\n- Prompt engineering and fine-tuning techniques\n- FastAPI or Flask for model serving\n- NLP fundamentals: tokenization, embeddin...",
+  "jd_skills": [
+    "Python",
+    "R",
+    "NLP",
+    "FastAPI",
+    "Flask",
+    "LangChain",
+    "HuggingFace",
+    "Transformers",
+    "BERT",
+    "GPT",
+    "RAG",
+    "ChromaDB",
+    "Pinecone",
+    "Weaviate",
+    "LlamaIndex",
+    "CUDA"
+  ],
+  "min_experience_required": 3,
+  "top_matches": [
+    {
+      "candidate_name": "Maya Patel",
+      "resume_path": "resumes\\maya_patel.pdf",
+      "years_experience": 6,
+      "match_score": 73,
+      "matched_skills": [
+        "Python",
+        "R",
+        "NLP",
+        "LangChain",
+        "HuggingFace",
+        "Transformers",
+        "BERT",
+        "GPT",
+        "RAG"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY NLP Engineer with 5 years specializing in conversational AI, dialogue systems, and LLM fine-tuning. Experienced building chatbots and voice assistants at scale.",
+        "SKILLS Python | HuggingFace | Transformers | BERT | GPT | LangChain | Rasa | SpaCy | NLTK | DialogFlow | AWS Lex | Vector Databases | RAG | Fine-tuning | Prompt Engineering",
+        "PROFESSIONAL EXPERIENCE NLP Engineer - ConvAI Labs (2021 - Present) - Built production RAG system for enterprise Q&A; handling 100K daily queries. - Fine-tuned LLaMA-2 on domain-specific data achieving 35% improvement in task accuracy. - Developed multi-turn dialogue system with 92% user satisfactio"
+      ],
+      "reasoning": "Semantic similarity: 0.74 (best chunk) across sections [education, experience, skills, summary]. Keyword match: 9/16 required skills. Experience: 6 yrs. Top matched skills: Python, R, NLP, LangChain, HuggingFace, Transformers, BERT, GPT.",
+      "sections_matched": [
+        "education",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Computational Linguistics | Stanford University (2019)\nB.Tech Computer Science | IIT Bombay (2017)"
+    },
+    {
+      "candidate_name": "Xavier Nguyen",
+      "resume_path": "resumes\\xavier_nguyen.pdf",
+      "years_experience": 5,
+      "match_score": 65,
+      "matched_skills": [
+        "Python",
+        "R",
+        "FastAPI",
+        "LangChain",
+        "HuggingFace",
+        "GPT",
+        "RAG",
+        "ChromaDB",
+        "Pinecone",
+        "Weaviate"
+      ],
+      "relevant_excerpts": [
+        "SKILLS Python | LangChain | LlamaIndex | OpenAI API | Anthropic Claude | RAG | Vector Databases | ChromaDB | Pinecone | Weaviate | Prompt Engineering | Fine-tuning | FastAPI | Streamlit | HuggingFace",
+        "PROFESSIONAL EXPERIENCE Generative AI Engineer - GenAI Ventures (2022 - Present) - Built enterprise RAG system processing 10M+ documents with 95% retrieval accuracy. - Developed AI code assistant reducing developer coding time by 30%. - Implemented multi-agent orchestration framework for complex tas",
+        "PROFESSIONAL SUMMARY Generative AI Engineer with 4 years building production AI applications using LLMs, diffusion models, and RAG systems."
+      ],
+      "reasoning": "Semantic similarity: 0.65 (best chunk) across sections [experience, skills, summary]. Keyword match: 10/16 required skills. Experience: 5 yrs. Top matched skills: Python, R, FastAPI, LangChain, HuggingFace, GPT, RAG, ChromaDB.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Computer Science (AI) | Carnegie Mellon University (2020)\nB.S. Computer Science | UC Davis (2018)"
+    },
+    {
+      "candidate_name": "George Rivera",
+      "resume_path": "resumes\\george_rivera.pdf",
+      "years_experience": 4,
+      "match_score": 61,
+      "matched_skills": [
+        "Python",
+        "R",
+        "FastAPI",
+        "LangChain",
+        "GPT",
+        "RAG"
+      ],
+      "relevant_excerpts": [
+        "SKILLS Python | Prompt Engineering | LangChain | LlamaIndex | OpenAI | Anthropic | Gemini | Vector Databases | RAG | AI Agents | FastAPI | Streamlit | React | TypeScript | SQL",
+        "PROFESSIONAL EXPERIENCE AI Product Engineer - AIProducts Inc. (2022 - Present) - Built customer-facing AI assistant handling 50K daily conversations. - Designed RAG pipeline improving answer accuracy from 65% to 91%. - Implemented multi-agent system automating complex research workflows. Software En",
+        "PROFESSIONAL SUMMARY AI Product Engineer with 3 years building LLM-powered products. Specialist in prompt engineering, RAG architectures, and AI agent systems. Experienced with GPT-4, Claude, and Gemini."
+      ],
+      "reasoning": "Semantic similarity: 0.64 (best chunk) across sections [experience, skills, summary]. Keyword match: 6/16 required skills. Experience: 4 yrs. Top matched skills: Python, R, FastAPI, LangChain, GPT, RAG.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nB.S. Computer Science | UCLA (2021)"
+    },
+    {
+      "candidate_name": "Resume James Rivera",
+      "resume_path": "resumes\\resume_james_rivera.txt",
+      "years_experience": 3,
+      "match_score": 59,
+      "matched_skills": [
+        "Python",
+        "R",
+        "LangChain",
+        "Transformers",
+        "RAG",
+        "CUDA"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior ML Research Engineer \u2014 AI Labs (Big Tech), Boston, MA Aug 2022 \u2013 Present \u2022 Developed and fine-tuned LLMs (7B\u201370B parameters) for code generation using Python (PyTorch, LoRA). \u2022 Implemented RLHF pipeline from scratch in ",
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, C++, CUDA, Julia, Bash ML/AI : PyTorch, JAX, TensorFlow, Hugging Face, LangChain, LlamaIndex LLMs : Fine-tuning (LoRA, QLoRA), RAG, RLHF, Prompt Engineering Vision : OpenCV, YOLO, ViT, Diffusion Models (St",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Dedicated AI/ML Research Engineer with a Ph.D. in Computer Science and 5 years of industry experience bridging research and production ML systems. Expert in large language models (LLMs), reinforcement learning, and comput"
+      ],
+      "reasoning": "Semantic similarity: 0.62 (best chunk) across sections [experience, skills, summary]. Keyword match: 6/16 required skills. Experience: 3 yrs. Top matched skills: Python, R, LangChain, Transformers, RAG, CUDA.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Resume Bob Martinez",
+      "resume_path": "resumes\\resume_bob_martinez.txt",
+      "years_experience": 5,
+      "match_score": 54,
+      "matched_skills": [
+        "Python",
+        "R",
+        "NLP",
+        "LangChain",
+        "Transformers"
+      ],
+      "relevant_excerpts": [
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, R, SQL, Scala ML/AI : Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM NLP : NLTK, spaCy, Hugging Face Transformers, LangChain Data : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau Cloud/ML",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior Data Scientist \u2014 FinTech Innovations, New York, NY Mar 2022 \u2013 Present \u2022 Built a credit risk scoring model using XGBoost and Python, reducing default rate by 18%. \u2022 Developed an NLP-based document classification system (",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Creative and analytical Data Scientist with 5 years of experience applying machine learning and statistical modelling to solve real-world business problems. Strong background in Python, deep learning, and NLP. Experienced"
+      ],
+      "reasoning": "Semantic similarity: 0.60 (best chunk) across sections [certifications, experience, skills, summary]. Keyword match: 5/16 required skills. Experience: 5 yrs. Top matched skills: Python, R, NLP, LangChain, Transformers.",
+      "sections_matched": [
+        "certifications",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nM.S. Data Science \u2014 Columbia University, New York, 2019\nB.S. Statistics \u2014 Boston University, 2017 | GPA: 3.7/4.0\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    }
+  ],
+  "retrieval_latency_ms": 65,
+  "total_candidates_evaluated": 40
+}

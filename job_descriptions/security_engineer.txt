@@ -1,0 +1,28 @@
+Senior Cybersecurity Engineer
+
+We need a Senior Security Engineer with 7+ years of experience to lead our security
+posture and incident response capabilities.
+
+Required Skills:
+- 7+ years in cybersecurity
+- Penetration testing tools: Metasploit, Burp Suite
+- SIEM platforms: Splunk or similar
+- Incident response and threat hunting
+- Zero-trust architecture design
+- Python or Bash for automation
+- Cloud security: AWS, GCP, or Azure
+
+Responsibilities:
+- Lead red team exercises and penetration testing
+- Design and implement zero-trust security architecture
+- Manage SOC team and incident response processes
+- Conduct threat intelligence analysis
+- Ensure compliance with NIST, SOC 2, or ISO 27001
+
+Nice to Have:
+- CISSP, CEH, or OSCP certifications
+- Kubernetes security hardening
+- DevSecOps integration
+
+Salary: $170,000 - $230,000
+Location: Washington, DC (hybrid)

@@ -1,0 +1,27 @@
+DevOps / Platform Engineer
+
+We need a DevOps Engineer with 5+ years of experience to help us scale our infrastructure.
+
+Required Skills:
+- AWS (5+ years): EC2, ECS/EKS, Lambda, S3, RDS
+- Kubernetes and Docker
+- Terraform for Infrastructure as Code
+- CI/CD pipelines: GitHub Actions, Jenkins, or GitLab CI
+- Linux and Bash scripting
+- Monitoring: Prometheus, Grafana
+- Python or Go for automation
+
+Responsibilities:
+- Design and manage cloud infrastructure on AWS
+- Build and maintain CI/CD pipelines for 20+ microservices
+- Implement infrastructure as code with Terraform
+- Set up monitoring, alerting, and on-call runbooks
+- Drive cost optimization across cloud environments
+
+Nice to Have:
+- Azure or GCP multi-cloud experience
+- Ansible for configuration management
+- Helm charts for Kubernetes deployments
+
+Salary: $150,000 - $200,000
+Location: Austin, TX (remote)

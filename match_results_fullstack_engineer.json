@@ -1,0 +1,212 @@
+{
+  "job_description": "Full-Stack Software Engineer\n\nJoin our team as a Full-Stack Engineer! We need someone with 3+ years of experience\nbuilding modern web applications.\n\nRequired Skills:\n- JavaScript / TypeScript (3+ years)\n- React or Next.js for frontend\n- Node.js, FastAPI, or Django for backend\n- PostgreSQL or MongoDB\n- REST APIs and/or GraphQL\n- Docker and CI/CD pipelines\n- Git and code review practices\n\nResponsibilities:\n- Build responsive, high-performance web applications\n- Develop RESTful or GraphQL APIs for ...",
+  "jd_skills": [
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "Go",
+    "R",
+    "SQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "AWS",
+    "Azure",
+    "Docker",
+    "React",
+    "Next.js",
+    "Node.js",
+    "FastAPI",
+    "Django",
+    "Git",
+    "CI/CD",
+    "Microservices",
+    "REST APIs",
+    "GraphQL",
+    "Flutter",
+    "React Native",
+    "ROS"
+  ],
+  "min_experience_required": 3,
+  "top_matches": [
+    {
+      "candidate_name": "David Park",
+      "resume_path": "resumes\\david_park.pdf",
+      "years_experience": 7,
+      "match_score": 80,
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "R",
+        "SQL",
+        "PostgreSQL",
+        "Redis",
+        "AWS",
+        "Docker",
+        "React",
+        "Next.js",
+        "Node.js",
+        "Git",
+        "CI/CD",
+        "Microservices",
+        "REST APIs",
+        "GraphQL",
+        "ROS"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY Full-Stack Software Engineer with 6 years building scalable web applications. Proficient in React, Node.js, and cloud-native architectures. Strong focus on performance optimization and developer experience.",
+        "SKILLS JavaScript | TypeScript | React | Next.js | Node.js | Express | GraphQL | PostgreSQL | Redis | Docker | AWS | CI/CD | Git | REST APIs | Microservices",
+        "PROFESSIONAL EXPERIENCE Senior Software Engineer - WebScale Inc. (2021 - Present) - Architected and built React-based SPA serving 2M monthly active users with 99.9% uptime. - Migrated monolithic backend to microservices, reducing p99 latency by 45%. - Led adoption of GraphQL federation across 6 engi"
+      ],
+      "reasoning": "Semantic similarity: 0.75 (best chunk) across sections [experience, skills, summary]. Keyword match: 18/25 required skills. Experience: 7 yrs. Top matched skills: Java, JavaScript, TypeScript, R, SQL, PostgreSQL, Redis, AWS.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nB.S. Computer Science | Columbia University (2018)"
+    },
+    {
+      "candidate_name": "Resume Carol Chen",
+      "resume_path": "resumes\\resume_carol_chen.txt",
+      "years_experience": 4,
+      "match_score": 76,
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "R",
+        "SQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "AWS",
+        "Docker",
+        "React",
+        "Next.js",
+        "Node.js",
+        "FastAPI",
+        "Django",
+        "Git",
+        "REST APIs",
+        "GraphQL"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Full-Stack Developer \u2014 CloudBase Technologies, Seattle, WA Feb 2022 \u2013 Present \u2022 Architected and developed a SaaS project management tool (React + FastAPI + PostgreSQL) serving 8K+ active users. \u2022 Built real-time collaboration ",
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Frontend : React, Next.js, TypeScript, Vue.js, HTML5, CSS3, TailwindCSS Backend : Node.js, Express, Python (FastAPI, Django), GraphQL, REST APIs Databases : PostgreSQL, MySQL, MongoDB, Firebase, Supabase DevOps : Docker, GitH",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Versatile Full-Stack Developer with 4 years of experience building responsive, high-performance web applications. Specialises in React, Node.js, and Python. Passionate about user experience, accessibility, and agile devel"
+      ],
+      "reasoning": "Semantic similarity: 0.68 (best chunk) across sections [experience, skills, summary]. Keyword match: 19/25 required skills. Experience: 4 yrs. Top matched skills: Java, JavaScript, TypeScript, Go, R, SQL, PostgreSQL, MongoDB.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Computer Science \u2014 University of Washington, Seattle, 2018"
+    },
+    {
+      "candidate_name": "Resume Alice Johnson",
+      "resume_path": "resumes\\resume_alice_johnson.txt",
+      "years_experience": 7,
+      "match_score": 71,
+      "matched_skills": [
+        "Java",
+        "JavaScript",
+        "Go",
+        "R",
+        "SQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "AWS",
+        "Docker",
+        "React",
+        "FastAPI",
+        "Django",
+        "Git",
+        "CI/CD",
+        "Microservices",
+        "ROS"
+      ],
+      "relevant_excerpts": [
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, Go, JavaScript, SQL, Bash Frameworks : FastAPI, Django, Flask, React Databases : PostgreSQL, MongoDB, Redis, BigQuery Cloud : AWS (EC2, S3, Lambda, RDS), GCP DevOps : Docker, Kubernetes, Terraform, GitHub ",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior Software Engineer \u2014 TechCorp Inc., San Francisco, CA Jan 2021 \u2013 Present \u2022 Led migration of monolithic application to microservices architecture using Python (FastAPI) and Docker, reducing deployment time by 40%. \u2022 Built",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Results-driven Senior Software Engineer with 7+ years of experience designing and building scalable backend services and data pipelines. Proficient in Python, Go, and cloud-native technologies. Passionate about clean code"
+      ],
+      "reasoning": "Semantic similarity: 0.63 (best chunk) across sections [experience, skills, summary]. Keyword match: 17/25 required skills. Experience: 7 yrs. Top matched skills: Java, JavaScript, Go, R, SQL, PostgreSQL, MongoDB, Redis.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Computer Science \u2014 University of Texas at Austin, 2016"
+    },
+    {
+      "candidate_name": "Resume Grace Liu",
+      "resume_path": "resumes\\resume_grace_liu.txt",
+      "years_experience": 5,
+      "match_score": 61,
+      "matched_skills": [
+        "Go",
+        "R",
+        "AWS",
+        "React",
+        "Node.js",
+        "FastAPI",
+        "Git",
+        "REST APIs",
+        "GraphQL",
+        "Flutter",
+        "React Native",
+        "ROS"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Innovative Mobile Developer with 5 years of experience shipping polished, high-performance iOS and Android applications. Proficient in Swift, Kotlin, and cross-platform development with React Native and Flutter. Adept at ",
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Mobile : Swift (SwiftUI, UIKit), Kotlin, Jetpack Compose, Objective-C Cross-Plat : React Native, Flutter, Dart Backend : Python (FastAPI), Node.js, Firebase, GraphQL, REST APIs Testing : XCTest, Espresso, Detox, Jest DevOps :",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior iOS Developer \u2014 MobileFirst Inc., Los Angeles, CA Nov 2021 \u2013 Present \u2022 Led development of a social media iOS app (Swift/SwiftUI) with 2M+ downloads on App Store. \u2022 Reduced app crash rate from 3.2% to 0.4% through system"
+      ],
+      "reasoning": "Semantic similarity: 0.61 (best chunk) across sections [experience, skills, summary]. Keyword match: 12/25 required skills. Experience: 5 yrs. Top matched skills: Go, R, AWS, React, Node.js, FastAPI, Git, REST APIs.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Software Engineering \u2014 USC (University of Southern California), 2018\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Resume David Kim",
+      "resume_path": "resumes\\resume_david_kim.txt",
+      "years_experience": 6,
+      "match_score": 60,
+      "matched_skills": [
+        "Go",
+        "R",
+        "SQL",
+        "PostgreSQL",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Git",
+        "CI/CD",
+        "Microservices",
+        "ROS"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior DevOps Engineer \u2014 CloudNative Systems, Austin, TX May 2021 \u2013 Present \u2022 Designed and managed multi-region Kubernetes clusters (AWS EKS) supporting 200+ microservices. \u2022 Authored Terraform modules for standardised infrast",
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Cloud : AWS (EKS, ECS, Lambda, RDS, S3, CloudFront, IAM), GCP, Azure IaC : Terraform, Pulumi, AWS CloudFormation, Ansible Containers : Docker, Kubernetes, Helm, Istio, ArgoCD CI/CD : GitHub Actions, Jenkins, CircleCI, GitLab ",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Dedicated DevOps Engineer with 6 years of experience building and maintaining cloud infrastructure, CI/CD pipelines, and container orchestration platforms. Deep expertise in Kubernetes, Terraform, and AWS. Committed to re"
+      ],
+      "reasoning": "Semantic similarity: 0.59 (best chunk) across sections [experience, skills, summary]. Keyword match: 11/25 required skills. Experience: 6 yrs. Top matched skills: Go, R, SQL, PostgreSQL, AWS, Azure, Docker, Git.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Information Systems \u2014 University of Texas at Dallas, 2016\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    }
+  ],
+  "retrieval_latency_ms": 63,
+  "total_candidates_evaluated": 35
+}

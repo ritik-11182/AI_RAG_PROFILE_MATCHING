@@ -1,0 +1,27 @@
+Data Scientist - Predictive Analytics
+
+We are hiring a Data Scientist with 3+ years of experience in predictive modeling,
+statistical analysis, and machine learning.
+
+Required Skills:
+- Python or R (3+ years)
+- Machine Learning: Scikit-learn, XGBoost, or similar
+- Statistical modeling and A/B testing
+- SQL and data analysis
+- Data visualization: Matplotlib, Seaborn, Tableau, or Power BI
+- Pandas and NumPy
+
+Responsibilities:
+- Build predictive models for customer churn, lifetime value, and recommendations
+- Design and analyze A/B experiments to optimize product features
+- Communicate insights to non-technical stakeholders
+- Work with data engineers to productionize models
+- Conduct exploratory data analysis on large datasets
+
+Nice to Have:
+- Deep learning experience (TensorFlow, PyTorch, Keras)
+- GCP BigQuery or Snowflake experience
+- Time series analysis and forecasting
+
+Salary: $130,000 - $175,000
+Location: Boston, MA (hybrid)

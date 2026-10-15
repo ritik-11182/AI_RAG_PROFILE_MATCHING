@@ -1,0 +1,192 @@
+{
+  "job_description": "Senior Machine Learning Engineer\n\nWe are seeking a Senior Machine Learning Engineer with 5+ years of experience building\nproduction ML systems. The ideal candidate has deep expertise in:\n\nRequired Skills:\n- Python (5+ years), PyTorch or TensorFlow\n- MLOps: MLflow, Kubeflow, or similar platforms\n- Large Language Models (LLMs), RAG, HuggingFace Transformers\n- NLP or Computer Vision experience\n- Cloud platforms: AWS, GCP, or Azure\n- Docker, Kubernetes for model deployment\n- Distributed computing: A...",
+  "jd_skills": [
+    "Python",
+    "R",
+    "TensorFlow",
+    "PyTorch",
+    "Machine Learning",
+    "NLP",
+    "Computer Vision",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Spark",
+    "MLflow",
+    "Kubeflow",
+    "Ray",
+    "HuggingFace",
+    "Transformers",
+    "BERT",
+    "GPT",
+    "RAG",
+    "ChromaDB",
+    "Pinecone",
+    "Weaviate",
+    "CUDA"
+  ],
+  "min_experience_required": 5,
+  "top_matches": [
+    {
+      "candidate_name": "Alice Chen",
+      "resume_path": "resumes\\alice_chen.pdf",
+      "years_experience": 7,
+      "match_score": 69,
+      "matched_skills": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "PyTorch",
+        "Machine Learning",
+        "NLP",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Spark",
+        "MLflow",
+        "Kubeflow",
+        "Transformers",
+        "BERT"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY Senior Machine Learning Engineer with 7 years of experience building production ML systems. Expert in deep learning, NLP, and MLOps. Led teams delivering large-scale recommendation and ranking systems.",
+        "SKILLS Python | TensorFlow | PyTorch | Scikit-learn | MLflow | Kubeflow | Docker | Kubernetes | SQL | Spark | AWS SageMaker | BERT | Transformers | Feature Engineering | A/B Testing",
+        "PROFESSIONAL EXPERIENCE Senior ML Engineer - TechCorp Inc. (2020 - Present) - Designed and deployed a real-time recommendation engine serving 50M+ users, increasing CTR by 18%. - Built end-to-end MLOps pipeline with MLflow and Kubeflow, reducing model deployment time by 60%. - Led a team of 4 engine"
+      ],
+      "reasoning": "Semantic similarity: 0.71 (best chunk) across sections [education, experience, skills, summary]. Keyword match: 14/25 required skills. Experience: 7 yrs. Top matched skills: Python, R, TensorFlow, PyTorch, Machine Learning, NLP, AWS, Docker.",
+      "sections_matched": [
+        "education",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Computer Science (Machine Learning) | Stanford University (2017)\nB.S. Mathematics | UC Berkeley (2015)"
+    },
+    {
+      "candidate_name": "Resume Bob Martinez",
+      "resume_path": "resumes\\resume_bob_martinez.txt",
+      "years_experience": 5,
+      "match_score": 59,
+      "matched_skills": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "PyTorch",
+        "Machine Learning",
+        "NLP",
+        "AWS",
+        "Docker",
+        "Spark",
+        "MLflow",
+        "Transformers"
+      ],
+      "relevant_excerpts": [
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, R, SQL, Scala ML/AI : Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM NLP : NLTK, spaCy, Hugging Face Transformers, LangChain Data : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau Cloud/ML",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior Data Scientist \u2014 FinTech Innovations, New York, NY Mar 2022 \u2013 Present \u2022 Built a credit risk scoring model using XGBoost and Python, reducing default rate by 18%. \u2022 Developed an NLP-based document classification system (",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Creative and analytical Data Scientist with 5 years of experience applying machine learning and statistical modelling to solve real-world business problems. Strong background in Python, deep learning, and NLP. Experienced"
+      ],
+      "reasoning": "Semantic similarity: 0.59 (best chunk) across sections [experience, skills, summary]. Keyword match: 11/25 required skills. Experience: 5 yrs. Top matched skills: Python, R, TensorFlow, PyTorch, Machine Learning, NLP, AWS, Docker.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nM.S. Data Science \u2014 Columbia University, New York, 2019\nB.S. Statistics \u2014 Boston University, 2017 | GPA: 3.7/4.0\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Quinn Anderson",
+      "resume_path": "resumes\\quinn_anderson.pdf",
+      "years_experience": 7,
+      "match_score": 58,
+      "matched_skills": [
+        "Python",
+        "R",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "MLflow",
+        "Kubeflow",
+        "Ray"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY MLOps Engineer with 6 years building ML platforms and infrastructure. Expert in model serving, monitoring, and scalable ML systems architecture.",
+        "SKILLS Python | Kubernetes | Docker | MLflow | Kubeflow | Ray | Seldon | BentoML | Prometheus | Grafana | Apache Airflow | Terraform | AWS | Feature Stores | Model Monitoring",
+        "PROFESSIONAL EXPERIENCE Senior MLOps Engineer - MLPlatform Co. (2020 - Present) - Built internal ML platform serving 100+ models with automated A/B testing. - Reduced model deployment time from 2 weeks to 2 hours through automation. - Implemented model drift detection reducing incidents by 80%. ML I"
+      ],
+      "reasoning": "Semantic similarity: 0.64 (best chunk) across sections [experience, skills, summary]. Keyword match: 8/25 required skills. Experience: 7 yrs. Top matched skills: Python, R, AWS, Docker, Kubernetes, MLflow, Kubeflow, Ray.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Computer Science | Georgia Tech (2018)\nB.S. Computer Science | UIUC (2016)"
+    },
+    {
+      "candidate_name": "Resume James Rivera",
+      "resume_path": "resumes\\resume_james_rivera.txt",
+      "years_experience": 3,
+      "match_score": 54,
+      "matched_skills": [
+        "Python",
+        "R",
+        "TensorFlow",
+        "PyTorch",
+        "Machine Learning",
+        "Computer Vision",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "MLflow",
+        "Kubeflow",
+        "Ray",
+        "Transformers",
+        "RAG",
+        "CUDA"
+      ],
+      "relevant_excerpts": [
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, C++, CUDA, Julia, Bash ML/AI : PyTorch, JAX, TensorFlow, Hugging Face, LangChain, LlamaIndex LLMs : Fine-tuning (LoRA, QLoRA), RAG, RLHF, Prompt Engineering Vision : OpenCV, YOLO, ViT, Diffusion Models (St",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior ML Research Engineer \u2014 AI Labs (Big Tech), Boston, MA Aug 2022 \u2013 Present \u2022 Developed and fine-tuned LLMs (7B\u201370B parameters) for code generation using Python (PyTorch, LoRA). \u2022 Implemented RLHF pipeline from scratch in ",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Dedicated AI/ML Research Engineer with a Ph.D. in Computer Science and 5 years of industry experience bridging research and production ML systems. Expert in large language models (LLMs), reinforcement learning, and comput"
+      ],
+      "reasoning": "Semantic similarity: 0.64 (best chunk) across sections [experience, skills, summary]. Keyword match: 16/25 required skills. Experience: 3 yrs. Candidate has 3 yrs experience (JD requires 5+). Top matched skills: Python, R, TensorFlow, PyTorch, Machine Learning, Computer Vision, AWS, GCP.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Frank Thompson",
+      "resume_path": "resumes\\frank_thompson.pdf",
+      "years_experience": 8,
+      "match_score": 52,
+      "matched_skills": [
+        "Python",
+        "R",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY DevOps Engineer with 8 years of experience automating infrastructure, building CI/CD pipelines, and managing cloud environments at scale. Expertise in AWS, Kubernetes, and Infrastructure as Code.",
+        "PROFESSIONAL EXPERIENCE Senior DevOps Engineer - CloudOps Corp (2019 - Present) - Managed Kubernetes clusters of 500+ nodes across 3 AWS regions with 99.99% availability. - Reduced cloud infrastructure costs by 40% through right-sizing and spot instance automation. - Built GitOps-based deployment pi",
+        "SKILLS AWS | Azure | GCP | Kubernetes | Docker | Terraform | Ansible | Jenkins | GitHub Actions | Prometheus | Grafana | Helm | Python | Bash | Linux"
+      ],
+      "reasoning": "Semantic similarity: 0.58 (best chunk) across sections [experience, skills, summary]. Keyword match: 7/25 required skills. Experience: 8 yrs. Top matched skills: Python, R, AWS, GCP, Azure, Docker, Kubernetes.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nB.S. Information Technology | Georgia Tech (2016)"
+    }
+  ],
+  "retrieval_latency_ms": 68,
+  "total_candidates_evaluated": 34
+}

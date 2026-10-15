@@ -1,0 +1,28 @@
+NLP / Conversational AI Engineer
+
+We're building the next generation of AI-powered products and need an NLP Engineer
+with 3+ years of experience in natural language processing and LLMs.
+
+Required Skills:
+- Python (3+ years)
+- HuggingFace Transformers, BERT, GPT, or similar LLMs
+- LangChain or LlamaIndex for RAG systems
+- Vector databases: ChromaDB, Pinecone, or Weaviate
+- Prompt engineering and fine-tuning techniques
+- FastAPI or Flask for model serving
+- NLP fundamentals: tokenization, embeddings, attention
+
+Responsibilities:
+- Build production RAG systems for enterprise Q&A
+- Fine-tune language models on domain-specific datasets
+- Design and evaluate prompt engineering strategies
+- Integrate LLMs into product features via APIs
+- Benchmark model performance and latency
+
+Nice to Have:
+- Experience with Rasa or DialogFlow for chatbots
+- CUDA and GPU optimization
+- Research background or publications in NLP
+
+Salary: $160,000 - $220,000
+Location: Mountain View, CA (hybrid)

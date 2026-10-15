@@ -1,0 +1,28 @@
+Senior Machine Learning Engineer
+
+We are seeking a Senior Machine Learning Engineer with 5+ years of experience building
+production ML systems. The ideal candidate has deep expertise in:
+
+Required Skills:
+- Python (5+ years), PyTorch or TensorFlow
+- MLOps: MLflow, Kubeflow, or similar platforms
+- Large Language Models (LLMs), RAG, HuggingFace Transformers
+- NLP or Computer Vision experience
+- Cloud platforms: AWS, GCP, or Azure
+- Docker, Kubernetes for model deployment
+- Distributed computing: Apache Spark or Ray
+
+Responsibilities:
+- Design and deploy end-to-end ML pipelines in production
+- Fine-tune large language models (BERT, GPT, LLaMA) on domain-specific data
+- Build and maintain model serving infrastructure with low latency requirements
+- Collaborate with data scientists to productionize research models
+- Implement monitoring and drift detection for production models
+
+Nice to Have:
+- Experience with vector databases (ChromaDB, Pinecone, Weaviate)
+- Publications in top ML conferences (NeurIPS, ICML, ICLR)
+- CUDA/GPU programming experience
+
+Salary: $180,000 - $250,000 + equity
+Location: San Francisco, CA (hybrid)

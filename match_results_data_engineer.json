@@ -1,0 +1,175 @@
+{
+  "job_description": "Senior Data Engineer\n\nWe are looking for a Senior Data Engineer with 4+ years of experience building scalable\ndata infrastructure and pipelines.\n\nRequired Skills:\n- Python and SQL (4+ years)\n- Apache Spark, Apache Airflow\n- Cloud data warehousing: Snowflake, BigQuery, or Redshift\n- dbt for data transformation\n- Kafka or Flink for real-time streaming\n- AWS or GCP\n- Data modeling and pipeline design\n\nResponsibilities:\n- Design and maintain petabyte-scale data lakes and warehouses\n- Build productio...",
+  "jd_skills": [
+    "Python",
+    "Go",
+    "Scala",
+    "R",
+    "SQL",
+    "AWS",
+    "GCP",
+    "Kubernetes",
+    "Kafka",
+    "Spark",
+    "Airflow",
+    "Flink",
+    "dbt",
+    "Snowflake",
+    "RAG",
+    "BigQuery",
+    "Redshift"
+  ],
+  "min_experience_required": 4,
+  "top_matches": [
+    {
+      "candidate_name": "Grace Lee",
+      "resume_path": "resumes\\grace_lee.pdf",
+      "years_experience": 7,
+      "match_score": 83,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "Scala",
+        "R",
+        "SQL",
+        "AWS",
+        "GCP",
+        "Kafka",
+        "Spark",
+        "Airflow",
+        "Flink",
+        "dbt",
+        "Snowflake"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY Data Engineer with 6 years building scalable data lakes, ETL pipelines, and analytical platforms. Experienced with Spark, Airflow, and cloud data warehousing solutions.",
+        "PROFESSIONAL EXPERIENCE Senior Data Engineer - DataHub Inc. (2021 - Present) - Architected petabyte-scale data lake on AWS using Delta Lake and Apache Spark. - Built 50+ production Airflow DAGs for data orchestration across 10+ source systems. - Implemented real-time streaming pipelines with Kafka a",
+        "SKILLS Python | Apache Spark | Apache Airflow | dbt | Snowflake | BigQuery | Redshift | Kafka | Flink | SQL | Scala | AWS | GCP | Delta Lake | Data Modeling"
+      ],
+      "reasoning": "Semantic similarity: 0.76 (best chunk) across sections [experience, skills, summary]. Keyword match: 13/17 required skills. Experience: 7 yrs. Top matched skills: Python, Go, Scala, R, SQL, AWS, GCP, Kafka.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Information Systems | Northwestern University (2018)\nB.S. Computer Science | University of Illinois (2016)"
+    },
+    {
+      "candidate_name": "Resume Alice Johnson",
+      "resume_path": "resumes\\resume_alice_johnson.txt",
+      "years_experience": 7,
+      "match_score": 66,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "Scala",
+        "R",
+        "SQL",
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "Kafka",
+        "Airflow",
+        "RAG"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior Software Engineer \u2014 TechCorp Inc., San Francisco, CA Jan 2021 \u2013 Present \u2022 Led migration of monolithic application to microservices architecture using Python (FastAPI) and Docker, reducing deployment time by 40%. \u2022 Built",
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, Go, JavaScript, SQL, Bash Frameworks : FastAPI, Django, Flask, React Databases : PostgreSQL, MongoDB, Redis, BigQuery Cloud : AWS (EC2, S3, Lambda, RDS), GCP DevOps : Docker, Kubernetes, Terraform, GitHub ",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Results-driven Senior Software Engineer with 7+ years of experience designing and building scalable backend services and data pipelines. Proficient in Python, Go, and cloud-native technologies. Passionate about clean code"
+      ],
+      "reasoning": "Semantic similarity: 0.61 (best chunk) across sections [experience, skills, summary]. Keyword match: 11/17 required skills. Experience: 7 yrs. Top matched skills: Python, Go, Scala, R, SQL, AWS, GCP, Kubernetes.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Computer Science \u2014 University of Texas at Austin, 2016"
+    },
+    {
+      "candidate_name": "Emma Wilson",
+      "resume_path": "resumes\\emma_wilson.pdf",
+      "years_experience": 4,
+      "match_score": 62,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "SQL",
+        "AWS",
+        "Kubernetes",
+        "Kafka"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL EXPERIENCE Backend Engineer - StreamFlow (2022 - Present) - Designed Kafka-based event streaming platform processing 1M+ events/second. - Built FastAPI services with async I/O achieving 10x throughput improvement. Junior Backend Engineer - DataPipe (2020 - 2022) - Developed data ingesti",
+        "PROFESSIONAL SUMMARY Backend Engineer with 4 years of experience in Python and Go, specializing in distributed systems and high-throughput data pipelines. AWS Certified Solutions Architect.",
+        "SKILLS Python | Go | Golang | FastAPI | Django | Kafka | RabbitMQ | PostgreSQL | MongoDB | Redis | AWS | Terraform | Docker | Kubernetes | gRPC"
+      ],
+      "reasoning": "Semantic similarity: 0.66 (best chunk) across sections [experience, skills, summary]. Keyword match: 7/17 required skills. Experience: 4 yrs. Top matched skills: Python, Go, R, SQL, AWS, Kubernetes, Kafka.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nB.S. Computer Engineering | UC San Diego (2020)"
+    },
+    {
+      "candidate_name": "Resume Henry Thompson",
+      "resume_path": "resumes\\resume_henry_thompson.txt",
+      "years_experience": 5,
+      "match_score": 59,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "SQL",
+        "AWS",
+        "GCP",
+        "Kafka",
+        "Spark",
+        "Flink"
+      ],
+      "relevant_excerpts": [
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, Java, Go, Rust (learning), SQL, Bash Frameworks : FastAPI, Spring Boot, gRPC, Apache Kafka, Flink, Spark Databases : PostgreSQL, Cassandra, DynamoDB, Redis, Elasticsearch Architecture: Microservices, Event",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Staff Backend Engineer \u2014 StreamTech Corp., Chicago, IL Jun 2020 \u2013 Present \u2022 Architected event-driven order processing platform (Python + Kafka + Flink) handling 1M+ events/sec. \u2022 Led migration from monolith to microservices ac",
+        "CERTIFICATIONS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2022 AWS Certified Solutions Architect \u2013 Professional (2022) \u2022 Confluent Certified Kafka Developer (2021) \u2022 Google Cloud Professional Data Engineer (2020) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 OPEN SOURCE \u2500\u2500\u2500\u2500\u2500"
+      ],
+      "reasoning": "Semantic similarity: 0.54 (best chunk) across sections [certifications, experience, skills, summary]. Keyword match: 9/17 required skills. Experience: 5 yrs. Top matched skills: Python, Go, R, SQL, AWS, GCP, Kafka, Spark.",
+      "sections_matched": [
+        "certifications",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nM.S. Computer Science (Distributed Systems) \u2014 University of Illinois, 2015\nB.S. Computer Engineering \u2014 Purdue University, 2013 | GPA: 3.9/4.0\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Zoe Harrison",
+      "resume_path": "resumes\\zoe_harrison.pdf",
+      "years_experience": 6,
+      "match_score": 57,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "Scala",
+        "R",
+        "SQL",
+        "AWS",
+        "Kafka",
+        "Spark",
+        "Flink"
+      ],
+      "relevant_excerpts": [
+        "SKILLS Python | TensorFlow | Spark | Collaborative Filtering | Matrix Factorization | Deep Learning | Feature Engineering | Hadoop | Kafka | Flink | AWS | Scala | A/B Testing | Experimentation | SQL",
+        "PROFESSIONAL SUMMARY Machine Learning Engineer specializing in recommendation systems and personalization with 6 years experience. Built systems serving billions of users at top tech companies."
+      ],
+      "reasoning": "Semantic similarity: 0.63 (best chunk) across sections [skills, summary]. Keyword match: 9/17 required skills. Experience: 6 yrs. Top matched skills: Python, Go, Scala, R, SQL, AWS, Kafka, Spark.",
+      "sections_matched": [
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Statistics | University of Washington (2018)\nB.S. Mathematics | University of Michigan (2016)"
+    }
+  ],
+  "retrieval_latency_ms": 59,
+  "total_candidates_evaluated": 30
+}

@@ -1,0 +1,199 @@
+{
+  "job_description": "DevOps / Platform Engineer\n\nWe need a DevOps Engineer with 5+ years of experience to help us scale our infrastructure.\n\nRequired Skills:\n- AWS (5+ years): EC2, ECS/EKS, Lambda, S3, RDS\n- Kubernetes and Docker\n- Terraform for Infrastructure as Code\n- CI/CD pipelines: GitHub Actions, Jenkins, or GitLab CI\n- Linux and Bash scripting\n- Monitoring: Prometheus, Grafana\n- Python or Go for automation\n\nResponsibilities:\n- Design and manage cloud infrastructure on AWS\n- Build and maintain CI/CD pipelines ...",
+  "jd_skills": [
+    "Python",
+    "Go",
+    "R",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Ansible",
+    "Git",
+    "Linux",
+    "Bash",
+    "CI/CD",
+    "Microservices",
+    "ROS",
+    "Prometheus",
+    "Grafana"
+  ],
+  "min_experience_required": 5,
+  "top_matches": [
+    {
+      "candidate_name": "Resume David Kim",
+      "resume_path": "resumes\\resume_david_kim.txt",
+      "years_experience": 6,
+      "match_score": 91,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Ansible",
+        "Git",
+        "Linux",
+        "Bash",
+        "CI/CD",
+        "Microservices",
+        "ROS",
+        "Prometheus",
+        "Grafana"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior DevOps Engineer \u2014 CloudNative Systems, Austin, TX May 2021 \u2013 Present \u2022 Designed and managed multi-region Kubernetes clusters (AWS EKS) supporting 200+ microservices. \u2022 Authored Terraform modules for standardised infrast",
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Cloud : AWS (EKS, ECS, Lambda, RDS, S3, CloudFront, IAM), GCP, Azure IaC : Terraform, Pulumi, AWS CloudFormation, Ansible Containers : Docker, Kubernetes, Helm, Istio, ArgoCD CI/CD : GitHub Actions, Jenkins, CircleCI, GitLab ",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Dedicated DevOps Engineer with 6 years of experience building and maintaining cloud infrastructure, CI/CD pipelines, and container orchestration platforms. Deep expertise in Kubernetes, Terraform, and AWS. Committed to re"
+      ],
+      "reasoning": "Semantic similarity: 0.82 (best chunk) across sections [certifications, experience, header, skills, summary]. Keyword match: 18/18 required skills. Experience: 6 yrs. Top matched skills: Python, Go, R, AWS, GCP, Azure, Docker, Kubernetes.",
+      "sections_matched": [
+        "certifications",
+        "experience",
+        "header",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Information Systems \u2014 University of Texas at Dallas, 2016\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Frank Thompson",
+      "resume_path": "resumes\\frank_thompson.pdf",
+      "years_experience": 8,
+      "match_score": 89,
+      "matched_skills": [
+        "Python",
+        "R",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Ansible",
+        "Git",
+        "Linux",
+        "Bash",
+        "CI/CD",
+        "ROS",
+        "Prometheus",
+        "Grafana"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL EXPERIENCE Senior DevOps Engineer - CloudOps Corp (2019 - Present) - Managed Kubernetes clusters of 500+ nodes across 3 AWS regions with 99.99% availability. - Reduced cloud infrastructure costs by 40% through right-sizing and spot instance automation. - Built GitOps-based deployment pi",
+        "PROFESSIONAL SUMMARY DevOps Engineer with 8 years of experience automating infrastructure, building CI/CD pipelines, and managing cloud environments at scale. Expertise in AWS, Kubernetes, and Infrastructure as Code.",
+        "SKILLS AWS | Azure | GCP | Kubernetes | Docker | Terraform | Ansible | Jenkins | GitHub Actions | Prometheus | Grafana | Helm | Python | Bash | Linux"
+      ],
+      "reasoning": "Semantic similarity: 0.80 (best chunk) across sections [experience, skills, summary]. Keyword match: 16/18 required skills. Experience: 8 yrs. Top matched skills: Python, R, AWS, GCP, Azure, Docker, Kubernetes, Terraform.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nB.S. Information Technology | Georgia Tech (2016)"
+    },
+    {
+      "candidate_name": "Resume Alice Johnson",
+      "resume_path": "resumes\\resume_alice_johnson.txt",
+      "years_experience": 7,
+      "match_score": 73,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Git",
+        "Bash",
+        "CI/CD",
+        "Microservices",
+        "ROS",
+        "Prometheus"
+      ],
+      "relevant_excerpts": [
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, Go, JavaScript, SQL, Bash Frameworks : FastAPI, Django, Flask, React Databases : PostgreSQL, MongoDB, Redis, BigQuery Cloud : AWS (EC2, S3, Lambda, RDS), GCP DevOps : Docker, Kubernetes, Terraform, GitHub ",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior Software Engineer \u2014 TechCorp Inc., San Francisco, CA Jan 2021 \u2013 Present \u2022 Led migration of monolithic application to microservices architecture using Python (FastAPI) and Docker, reducing deployment time by 40%. \u2022 Built",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Results-driven Senior Software Engineer with 7+ years of experience designing and building scalable backend services and data pipelines. Proficient in Python, Go, and cloud-native technologies. Passionate about clean code"
+      ],
+      "reasoning": "Semantic similarity: 0.65 (best chunk) across sections [certifications, experience, skills, summary]. Keyword match: 14/18 required skills. Experience: 7 yrs. Top matched skills: Python, Go, R, AWS, GCP, Docker, Kubernetes, Terraform.",
+      "sections_matched": [
+        "certifications",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Computer Science \u2014 University of Texas at Austin, 2016"
+    },
+    {
+      "candidate_name": "Resume Henry Thompson",
+      "resume_path": "resumes\\resume_henry_thompson.txt",
+      "years_experience": 5,
+      "match_score": 63,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "AWS",
+        "GCP",
+        "Git",
+        "Bash",
+        "Microservices",
+        "ROS",
+        "Prometheus",
+        "Grafana"
+      ],
+      "relevant_excerpts": [
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, Java, Go, Rust (learning), SQL, Bash Frameworks : FastAPI, Spring Boot, gRPC, Apache Kafka, Flink, Spark Databases : PostgreSQL, Cassandra, DynamoDB, Redis, Elasticsearch Architecture: Microservices, Event",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Staff Backend Engineer \u2014 StreamTech Corp., Chicago, IL Jun 2020 \u2013 Present \u2022 Architected event-driven order processing platform (Python + Kafka + Flink) handling 1M+ events/sec. \u2022 Led migration from monolith to microservices ac",
+        "CERTIFICATIONS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 \u2022 AWS Certified Solutions Architect \u2013 Professional (2022) \u2022 Confluent Certified Kafka Developer (2021) \u2022 Google Cloud Professional Data Engineer (2020) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 OPEN SOURCE \u2500\u2500\u2500\u2500\u2500"
+      ],
+      "reasoning": "Semantic similarity: 0.53 (best chunk) across sections [certifications, experience, skills]. Keyword match: 11/18 required skills. Experience: 5 yrs. Top matched skills: Python, Go, R, AWS, GCP, Git, Bash, Microservices.",
+      "sections_matched": [
+        "certifications",
+        "experience",
+        "skills"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nM.S. Computer Science (Distributed Systems) \u2014 University of Illinois, 2015\nB.S. Computer Engineering \u2014 Purdue University, 2013 | GPA: 3.9/4.0\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Yara Collins",
+      "resume_path": "resumes\\yara_collins.pdf",
+      "years_experience": 8,
+      "match_score": 60,
+      "matched_skills": [
+        "Python",
+        "Go",
+        "R",
+        "AWS",
+        "Kubernetes",
+        "Terraform",
+        "Linux",
+        "Prometheus",
+        "Grafana"
+      ],
+      "relevant_excerpts": [
+        "SKILLS Python | Go | Kubernetes | Prometheus | Grafana | PagerDuty | Chaos Engineering | SLO/SLI/SLA | Terraform | AWS | Load Balancing | Linux | Shell Scripting | Distributed Systems | Observability",
+        "PROFESSIONAL EXPERIENCE Senior SRE - ReliableCloud (2020 - Present) - Maintained 99.99% uptime for platform serving 10M+ daily active users. - Reduced MTTR from 45 minutes to 8 minutes through improved observability. - Led chaos engineering program eliminating 90% of infrastructure-related outages. ",
+        "PROFESSIONAL SUMMARY Site Reliability Engineer with 7 years ensuring high availability and performance of distributed systems. Expert in incident management, capacity planning, and chaos engineering."
+      ],
+      "reasoning": "Semantic similarity: 0.66 (best chunk) across sections [experience, skills, summary]. Keyword match: 9/18 required skills. Experience: 8 yrs. Top matched skills: Python, Go, R, AWS, Kubernetes, Terraform, Linux, Prometheus.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nB.S. Computer Science | Fordham University (2017)"
+    }
+  ],
+  "retrieval_latency_ms": 48,
+  "total_candidates_evaluated": 35
+}

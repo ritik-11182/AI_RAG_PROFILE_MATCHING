@@ -1,0 +1,150 @@
+{
+  "job_description": "Senior Cybersecurity Engineer\n\nWe need a Senior Security Engineer with 7+ years of experience to lead our security\nposture and incident response capabilities.\n\nRequired Skills:\n- 7+ years in cybersecurity\n- Penetration testing tools: Metasploit, Burp Suite\n- SIEM platforms: Splunk or similar\n- Incident response and threat hunting\n- Zero-trust architecture design\n- Python or Bash for automation\n- Cloud security: AWS, GCP, or Azure\n\nResponsibilities:\n- Lead red team exercises and penetration testi...",
+  "jd_skills": [
+    "Python",
+    "Rust",
+    "R",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes",
+    "Bash"
+  ],
+  "min_experience_required": 7,
+  "top_matches": [
+    {
+      "candidate_name": "Frank Thompson",
+      "resume_path": "resumes\\frank_thompson.pdf",
+      "years_experience": 8,
+      "match_score": 78,
+      "matched_skills": [
+        "Python",
+        "R",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Kubernetes",
+        "Bash"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY DevOps Engineer with 8 years of experience automating infrastructure, building CI/CD pipelines, and managing cloud environments at scale. Expertise in AWS, Kubernetes, and Infrastructure as Code.",
+        "SKILLS AWS | Azure | GCP | Kubernetes | Docker | Terraform | Ansible | Jenkins | GitHub Actions | Prometheus | Grafana | Helm | Python | Bash | Linux",
+        "PROFESSIONAL EXPERIENCE Senior DevOps Engineer - CloudOps Corp (2019 - Present) - Managed Kubernetes clusters of 500+ nodes across 3 AWS regions with 99.99% availability. - Reduced cloud infrastructure costs by 40% through right-sizing and spot instance automation. - Built GitOps-based deployment pi"
+      ],
+      "reasoning": "Semantic similarity: 0.62 (best chunk) across sections [experience, skills, summary]. Keyword match: 7/8 required skills. Experience: 8 yrs. Top matched skills: Python, R, AWS, GCP, Azure, Kubernetes, Bash.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nB.S. Information Technology | Georgia Tech (2016)"
+    },
+    {
+      "candidate_name": "James Cooper",
+      "resume_path": "resumes\\james_cooper.pdf",
+      "years_experience": 11,
+      "match_score": 67,
+      "matched_skills": [
+        "Python",
+        "Rust",
+        "R",
+        "Bash"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY Cybersecurity Engineer with 10 years protecting enterprise environments. Expert in penetration testing, threat hunting, and zero-trust architecture. CISSP and CEH certified.",
+        "PROFESSIONAL EXPERIENCE Principal Security Engineer - SecureNet Corp (2018 - Present) - Led zero-trust architecture implementation for 10,000-employee enterprise. - Managed SOC team of 8, achieving 15-minute mean time to detect (MTTD). - Conducted red team exercises identifying 200+ vulnerabilities ",
+        "SKILLS Penetration Testing | SIEM | Splunk | CrowdStrike | Metasploit | Burp Suite | Python | Bash | Wireshark | NIST Framework | Zero-Trust | SOC | Incident Response | CISSP | CEH"
+      ],
+      "reasoning": "Semantic similarity: 0.70 (best chunk) across sections [education, experience, skills, summary]. Keyword match: 4/8 required skills. Experience: 11 yrs. Top matched skills: Python, Rust, R, Bash.",
+      "sections_matched": [
+        "education",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Information Security | Carnegie Mellon University (2014)\nB.S. Computer Science | Virginia Tech (2012)"
+    },
+    {
+      "candidate_name": "Resume Alice Johnson",
+      "resume_path": "resumes\\resume_alice_johnson.txt",
+      "years_experience": 7,
+      "match_score": 66,
+      "matched_skills": [
+        "Python",
+        "R",
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "Bash"
+      ],
+      "relevant_excerpts": [
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Languages : Python, Go, JavaScript, SQL, Bash Frameworks : FastAPI, Django, Flask, React Databases : PostgreSQL, MongoDB, Redis, BigQuery Cloud : AWS (EC2, S3, Lambda, RDS), GCP DevOps : Docker, Kubernetes, Terraform, GitHub ",
+        "PROFESSIONAL SUMMARY \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Results-driven Senior Software Engineer with 7+ years of experience designing and building scalable backend services and data pipelines. Proficient in Python, Go, and cloud-native technologies. Passionate about clean code",
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior Software Engineer \u2014 TechCorp Inc., San Francisco, CA Jan 2021 \u2013 Present \u2022 Led migration of monolithic application to microservices architecture using Python (FastAPI) and Docker, reducing deployment time by 40%. \u2022 Built"
+      ],
+      "reasoning": "Semantic similarity: 0.49 (best chunk) across sections [certifications, experience, skills, summary]. Keyword match: 6/8 required skills. Experience: 7 yrs. Top matched skills: Python, R, AWS, GCP, Kubernetes, Bash.",
+      "sections_matched": [
+        "certifications",
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Computer Science \u2014 University of Texas at Austin, 2016"
+    },
+    {
+      "candidate_name": "Resume David Kim",
+      "resume_path": "resumes\\resume_david_kim.txt",
+      "years_experience": 6,
+      "match_score": 60,
+      "matched_skills": [
+        "Python",
+        "R",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Kubernetes",
+        "Bash"
+      ],
+      "relevant_excerpts": [
+        "WORK EXPERIENCE \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Senior DevOps Engineer \u2014 CloudNative Systems, Austin, TX May 2021 \u2013 Present \u2022 Designed and managed multi-region Kubernetes clusters (AWS EKS) supporting 200+ microservices. \u2022 Authored Terraform modules for standardised infrast",
+        "TECHNICAL SKILLS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500 Cloud : AWS (EKS, ECS, Lambda, RDS, S3, CloudFront, IAM), GCP, Azure IaC : Terraform, Pulumi, AWS CloudFormation, Ansible Containers : Docker, Kubernetes, Helm, Istio, ArgoCD CI/CD : GitHub Actions, Jenkins, CircleCI, GitLab ",
+        "security team to implement AWS IAM roles and security groups following least-privilege. Junior Systems Administrator \u2014 ITOps Corp, Houston, TX Jun 2016 \u2013 Dec 2017 \u2022 Managed Linux/Windows server fleets (100+ nodes) using Ansible. \u2022 Set up and maintained monitoring dashboards using Nagios and Grafana."
+      ],
+      "reasoning": "Semantic similarity: 0.54 (best chunk) across sections [certifications, experience, header, skills, summary]. Keyword match: 7/8 required skills. Experience: 6 yrs. Candidate has 6 yrs experience (JD requires 7+). Top matched skills: Python, R, AWS, GCP, Azure, Kubernetes, Bash.",
+      "sections_matched": [
+        "certifications",
+        "experience",
+        "header",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nB.S. Information Systems \u2014 University of Texas at Dallas, 2016\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+    },
+    {
+      "candidate_name": "Nathan Davis",
+      "resume_path": "resumes\\nathan_davis.pdf",
+      "years_experience": 12,
+      "match_score": 59,
+      "matched_skills": [
+        "R",
+        "AWS",
+        "GCP",
+        "Azure"
+      ],
+      "relevant_excerpts": [
+        "PROFESSIONAL SUMMARY Cloud Solutions Architect with 11 years designing enterprise-grade cloud infrastructures. AWS Solutions Architect Professional certified. Expertise in serverless, multi-cloud, and cost optimization.",
+        "SKILLS AWS | Azure | GCP | Terraform | CloudFormation | Lambda | ECS | EKS | API Gateway | S3 | RDS | DynamoDB | CDK | Serverless | Cost Optimization",
+        "PROFESSIONAL EXPERIENCE Principal Cloud Architect - CloudMatrix (2017 - Present) - Architected multi-cloud strategy for Fortune 100 client, achieving $10M annual savings. - Designed serverless platform handling 500M API calls/month with 99.999% SLA. - Led cloud migration of 200+ applications from on"
+      ],
+      "reasoning": "Semantic similarity: 0.53 (best chunk) across sections [experience, skills, summary]. Keyword match: 4/8 required skills. Experience: 12 yrs. Top matched skills: R, AWS, GCP, Azure.",
+      "sections_matched": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "education_summary": "EDUCATION\nM.S. Distributed Systems | University of Washington (2013)\nB.S. Computer Science | UCLA (2011)"
+    }
+  ],
+  "retrieval_latency_ms": 47,
+  "total_candidates_evaluated": 33
+}

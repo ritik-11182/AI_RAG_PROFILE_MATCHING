@@ -1,0 +1,29 @@
+Full-Stack Software Engineer
+
+Join our team as a Full-Stack Engineer! We need someone with 3+ years of experience
+building modern web applications.
+
+Required Skills:
+- JavaScript / TypeScript (3+ years)
+- React or Next.js for frontend
+- Node.js, FastAPI, or Django for backend
+- PostgreSQL or MongoDB
+- REST APIs and/or GraphQL
+- Docker and CI/CD pipelines
+- Git and code review practices
+
+Responsibilities:
+- Build responsive, high-performance web applications
+- Develop RESTful or GraphQL APIs for web and mobile clients
+- Collaborate with designers to implement pixel-perfect UIs
+- Write unit and integration tests for frontend and backend
+- Participate in agile sprints and code reviews
+
+Nice to Have:
+- Redis for caching
+- AWS or Azure cloud deployment
+- Microservices architecture experience
+- React Native or Flutter for mobile
+
+Salary: $120,000 - $160,000
+Location: New York, NY (hybrid)

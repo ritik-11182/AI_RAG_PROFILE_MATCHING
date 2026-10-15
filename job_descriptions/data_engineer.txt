@@ -1,0 +1,28 @@
+Senior Data Engineer
+
+We are looking for a Senior Data Engineer with 4+ years of experience building scalable
+data infrastructure and pipelines.
+
+Required Skills:
+- Python and SQL (4+ years)
+- Apache Spark, Apache Airflow
+- Cloud data warehousing: Snowflake, BigQuery, or Redshift
+- dbt for data transformation
+- Kafka or Flink for real-time streaming
+- AWS or GCP
+- Data modeling and pipeline design
+
+Responsibilities:
+- Design and maintain petabyte-scale data lakes and warehouses
+- Build production-grade ETL/ELT pipelines with Airflow
+- Implement real-time streaming pipelines for business-critical data
+- Work with data teams to ensure data quality and reliability
+- Optimize query performance and data storage costs
+
+Nice to Have:
+- Scala experience for Spark development
+- Delta Lake or Apache Iceberg
+- Kubernetes for containerized data workloads
+
+Salary: $140,000 - $190,000
+Location: Chicago, IL (remote-friendly)
